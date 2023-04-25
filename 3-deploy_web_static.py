@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''fcreates and distributes an archive to your web servers, using deploy():
+'''fabfile creates and distributes an archive to your web servers
 '''
 
 import os
